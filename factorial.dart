@@ -1,4 +1,4 @@
-// Q4 Implement a code that finds the factorial of a number using a while
+// Q4: Implement a code that finds the factorial of a number using a while
 // loop or for loop.
 // Example:
 // Input: 5
