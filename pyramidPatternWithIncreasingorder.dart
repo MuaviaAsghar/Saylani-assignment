@@ -11,10 +11,8 @@ void main() {
 
   int currentNumber = 1;
   for (int i = 1; i <= numRows; i++) {
-    print("$i in outerloop");
     for (int space = 1; space <= numRows - i; space++) {
       stdout.write(' ');
-      print("$i in innerloop");
     }
 
     for (int j = 1; j <= i; j++) {
