@@ -16,7 +16,6 @@ int calculateSumOfSquaresOfOddNumbers(List<int> numbers) {
 
   for (int number in numbers) {
     if (number % 2 != 0) {
-      // Check if the number is odd
       sum += (number * number);
     }
   }
